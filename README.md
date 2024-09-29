@@ -39,12 +39,21 @@ _ - underscore
 :x:
 
 <h2>Keyboard shortcuts</h2>
+
+
 Shortcuts that I frequently use:
+
 Ctrl+Alt+T/Alt+Enter (open terminal on KDE)
+
 Ctrl+Shift+T (re-open recently closed tab on Firefox)
+
 Ctrl+W/Ctrl+Q/Alt+F4 (close window)
 
+
 Shortcuts I would like to start using:
+
 Ctrl+Alt+L (Lock screen)
+
 Ctrl-Alt-Esc (Window destroyer)
+
 Super+G (Virutal desktop grid)
