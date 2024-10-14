@@ -57,3 +57,8 @@ Ctrl+Alt+L (Lock screen)
 Ctrl-Alt-Esc (Window destroyer)
 
 Super+G (Virutal desktop grid)
+
+link to cli.md
+
+[CLI commands](docs/cli.md)
+
